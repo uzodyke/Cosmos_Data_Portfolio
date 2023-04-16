@@ -1,7 +1,7 @@
 # Cosmos_Data_Portfolio
 Data Science Portfolio
 
-# Water Quality Analysis - Using ML to Determine Quality of Water. 
+# Project 1: Water Quality Analysis - Using ML to Determine Quality of Water. 
 * We trained a Machine Learning Model to Predict with a level of accuracy Safe and Unsafe Water for Drinking.
 * Data set was obstained from kaggle
 * Data was cleaned off impurities using Python
