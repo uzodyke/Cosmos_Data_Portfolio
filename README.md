@@ -6,5 +6,4 @@ Data Science Portfolio
 * The dataset was obtained from Kaggle.
 * The data was cleaned of impurities using Python.
 * Pycaret was deployed to give us the best classification methodology with the most optimized predictive accuracy.
-![Accuracy](Confusion%20Matrix.png)
 ![Accuracy](Accuracy.png)
