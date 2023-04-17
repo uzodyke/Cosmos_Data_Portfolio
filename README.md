@@ -21,8 +21,7 @@ Data Science Portfolio
 *   *Transport means that Generated Highest Grossing Revenue
 *   *Cost Distibution by Carrier
 *   *AVerage Defect rate by Product Type
-
-*#In the above picture, The road shows a very high defect rate while air has the lowest rate
 ![Accuracy](Defect_rates_by_transportation.jpg)
+*#In the above picture, The road shows a very high defect rate while air has the lowest rate
 
 *#SUMMARY, Supply Chain Analysis is the process of examining different elements of a Supply Chain in order to identify opportunities to enhance its efficiency and generate greater value for customers. 
