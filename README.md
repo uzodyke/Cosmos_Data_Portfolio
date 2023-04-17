@@ -23,6 +23,6 @@ Data Science Portfolio
 *   *AVerage Defect rate by Product Type
 
 *#In the above picture, The road shows a very high defect rate while air has the lowest rate
-[Accuracy](Accuracy.png)
+[Accuracy](Defect_rates_by_transportation.jpg)
 
 *#SUMMARY, Supply Chain Analysis is the process of examining different elements of a Supply Chain in order to identify opportunities to enhance its efficiency and generate greater value for customers. 
