@@ -7,3 +7,4 @@ Data Science Portfolio
 * The data was cleaned of impurities using Python.
 * Pycaret was deployed to give us the best classification methodology with the most optimized predictive accuracy.
 ![alt text](https://github.com/uzodyke/Cosmos_Data_Portfolio/blob/main/Confusion%20Matrix.png)
+![alt text](https://github.com/uzodyke/Cosmos_Data_Portfolio/blob/main/Accuracy.png)
