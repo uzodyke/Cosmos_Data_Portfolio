@@ -13,6 +13,7 @@ Data Science Portfolio
 * Obtained and cleaned the dataset
 * Checked for skewed data
 * Filled the blank spaces with mean and mode
+* Checked to oberve the correlation between other categories and the "probability" category.
 * Analysed Supply Chain by looking at the relationship between categories.
 * Answered business questions like
 *   *Products that generated the highest revenue
