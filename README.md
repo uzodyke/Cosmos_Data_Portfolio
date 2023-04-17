@@ -20,7 +20,7 @@ Data Science Portfolio
 *   *Cost of Shipping
 *   *Transport means that Generated Highest Grossing Revenue
 *   *Cost Distibution by Carrier
-*   *AVerage Defect rate by Product Type
+*   *Average Defect rate by Product Type
 ![Accuracy](Defect_rates_by_transportation.jpg)
 *#In the above picture, The road shows a very high defect rate while air has the lowest rate
 
