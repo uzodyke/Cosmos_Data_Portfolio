@@ -21,7 +21,7 @@ Data Science Portfolio
 *#SUMMARY, Supply Chain Analysis is the process of examining different elements of a Supply Chain in order to identify opportunities to enhance its efficiency and generate greater value for customers. 
 
 
-# [Project 2: Supply Chat Analysis](https://github.com/uzodyke/Cosmos_Data_Portfolio/blob/main/Top_Billionaire_Analysis_from_Forbes_DataSet.ipynb)
+# [Project 2: World Billionaire Analysis](https://github.com/uzodyke/Cosmos_Data_Portfolio/blob/main/Top_Billionaire_Analysis_from_Forbes_DataSet.ipynb)
 
 * Downloaded dataset from forbes webpage on billionaires 2021
 * Cleaned and Checked for skewed data
