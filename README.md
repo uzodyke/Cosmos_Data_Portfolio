@@ -29,7 +29,7 @@ Data Science Portfolio
 * Checked the Industry that has made the most billionairs
 * Checked the country that has the most billionaires 
 * The summary, the success of a business or startup is greatly influenced by the business environment of a country. Based on an analysis of global billionaires, it was found that China and the United States have the highest number of billionaires, indicating a more favorable business environment and higher success rates for startups in these countries compared to the rest of the world. I trust that enjoyed following this analysis of mine.
-![Billionaire](Top billionaires Countries.png)
+![Accuracy](Billionairechart.jpg)
 
 
 # [Project 3: Water Quality Analysis - Using ML to Determine Quality of Water.](https://github.com/uzodyke/Cosmos_Data_Portfolio/blob/main/water_quality_analysis.ipynb)
