@@ -38,3 +38,16 @@ Data Science Portfolio
 * The data was cleaned of impurities using Python.
 * Pycaret was deployed to give us the best classification methodology with the most optimized predictive accuracy.
 ![Accuracy](Accuracy.png)
+
+
+# [Project 4: User Funnel Analysis](https://github.com/uzodyke/Cosmos_Data_Portfolio/blob/main/Funnel_Analysis_Chart.ipynb)
+User funnel analysis is a way of understanding how users interract with a website or app. This analysis helps businesses analyze conversion rate from when a user visits the site till he leave purchasing the product or not.
+* Downloaded dataset from kaggle website
+* Cleaned and Checked for skewed data
+* Removed strings not meant to be present in the dataset
+* Stages of flow were observed and grouped distinctively 
+* this stages and the count were now plotted on a funnel graph
+![Accuracy](Stagefunnel.jpg)
+
+In summary, this analysis is just a way to understand how users or visitors interact with our page, app or website which gives us insight on how to improve so many of the visitation can lead to conversion
+
